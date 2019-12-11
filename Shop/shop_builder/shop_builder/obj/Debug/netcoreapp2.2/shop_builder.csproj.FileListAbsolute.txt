@@ -1,0 +1,10 @@
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\obj\Debug\netcoreapp2.2\shop_builder.AssemblyInfoInputs.cache
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\obj\Debug\netcoreapp2.2\shop_builder.AssemblyInfo.cs
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\bin\Debug\netcoreapp2.2\shop_builder.deps.json
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\bin\Debug\netcoreapp2.2\shop_builder.runtimeconfig.json
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\bin\Debug\netcoreapp2.2\shop_builder.runtimeconfig.dev.json
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\bin\Debug\netcoreapp2.2\shop_builder.dll
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\bin\Debug\netcoreapp2.2\shop_builder.pdb
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\obj\Debug\netcoreapp2.2\shop_builder.dll
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\obj\Debug\netcoreapp2.2\shop_builder.pdb
+D:\work\patterns\Builder\Shop\shop_builder\shop_builder\obj\Debug\netcoreapp2.2\shop_builder.csprojAssemblyReference.cache
